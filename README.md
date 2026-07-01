@@ -67,10 +67,12 @@ Business travel and job level influence employee retention.
 1. Executive Overview
    <img width="750" height="425" alt="image" src="https://github.com/user-attachments/assets/c5a07b24-cf4b-4d84-ac1c-ced85b4a11d0" />
 
+2. Job-Tenure
+   <img width="1668" height="943" alt="image" src="https://github.com/user-attachments/assets/1007961d-07a2-435d-bad0-f09e8a3e852d" />
 
-Example:
+3. Risk & Behaviour
+   <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/54706260-c031-4b60-92f0-d2de4fbbde9c" />
 
-![Dashboard Preview](Images/Dashboard%20Preview.png)
 
 **👩‍💻 Author**
 
